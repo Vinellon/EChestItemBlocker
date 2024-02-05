@@ -1,0 +1,4 @@
+# Developer IBoTuS
+
+sound: ENTITY_ITEM_PICKUP #Sound
+messages: "#0EC8E2[✘] &fYou can not #0EC8E2place &fitem in ender chest!" #message (HEX support)
