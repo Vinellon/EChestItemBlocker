@@ -18,7 +18,7 @@ public class Main extends JavaPlugin implements Listener {
     public void onEnable() {
         Config.loadYaml(this);
         Bukkit.getConsoleSender().sendMessage("");
-        this.msg("&fDeveloper: &aIBoTuS");
+        this.msg("&fDeveloper: &aIBoTuS &fForked: &aVinely");
         this.msg("&fVersion: &dv" + this.getDescription().getVersion());
         Bukkit.getConsoleSender().sendMessage("");
         getServer().getPluginManager().registerEvents(new InventoryClickEventHandler(), this);

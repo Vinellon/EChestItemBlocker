@@ -1,9 +1,9 @@
-C:\Users\roman\OneDrive\Рабочий стол\Intelij Plugin\IBShulker\src\main\java\ibotus\ibshulker\events\PlayerSwapHandItemsEventHandler.java
-C:\Users\roman\OneDrive\Рабочий стол\Intelij Plugin\IBShulker\src\main\java\ibotus\ibshulker\events\InventoryClickEventHandler.java
-C:\Users\roman\OneDrive\Рабочий стол\Intelij Plugin\IBShulker\src\main\java\ibotus\ibshulker\utils\ChatUtils.java
-C:\Users\roman\OneDrive\Рабочий стол\Intelij Plugin\IBShulker\src\main\java\ibotus\ibshulker\events\PlayerDeathEventHandler.java
-C:\Users\roman\OneDrive\Рабочий стол\Intelij Plugin\IBShulker\src\main\java\ibotus\ibshulker\utils\BannedItems.java
-C:\Users\roman\OneDrive\Рабочий стол\Intelij Plugin\IBShulker\src\main\java\ibotus\ibshulker\configurations\Config.java
-C:\Users\roman\OneDrive\Рабочий стол\Intelij Plugin\IBShulker\src\main\java\ibotus\ibshulker\Main.java
-C:\Users\roman\OneDrive\Рабочий стол\Intelij Plugin\IBShulker\src\main\java\ibotus\ibshulker\events\InventoryCloseEventHandler.java
-C:\Users\roman\OneDrive\Рабочий стол\Intelij Plugin\IBShulker\src\main\java\ibotus\ibshulker\events\InventoryOpenEventHandler.java
+E:\minecraft\plugins\EChestItemBlocker\src\main\java\ibotus\ibshulker\events\PlayerDeathEventHandler.java
+E:\minecraft\plugins\EChestItemBlocker\src\main\java\ibotus\ibshulker\utils\ChatUtils.java
+E:\minecraft\plugins\EChestItemBlocker\src\main\java\ibotus\ibshulker\configurations\Config.java
+E:\minecraft\plugins\EChestItemBlocker\src\main\java\ibotus\ibshulker\Main.java
+E:\minecraft\plugins\EChestItemBlocker\src\main\java\ibotus\ibshulker\events\PlayerSwapHandItemsEventHandler.java
+E:\minecraft\plugins\EChestItemBlocker\src\main\java\ibotus\ibshulker\utils\BannedItems.java
+E:\minecraft\plugins\EChestItemBlocker\src\main\java\ibotus\ibshulker\events\InventoryOpenEventHandler.java
+E:\minecraft\plugins\EChestItemBlocker\src\main\java\ibotus\ibshulker\events\InventoryClickEventHandler.java
+E:\minecraft\plugins\EChestItemBlocker\src\main\java\ibotus\ibshulker\events\InventoryCloseEventHandler.java

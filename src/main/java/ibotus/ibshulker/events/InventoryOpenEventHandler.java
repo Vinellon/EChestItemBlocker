@@ -18,7 +18,7 @@ public class InventoryOpenEventHandler implements Listener {
 
     @EventHandler
     public void onInventoryOpenEvent(org.bukkit.event.inventory.InventoryOpenEvent event) {
-        if (event.getInventory().getType() == InventoryType.ENDER_CHEST) {
+        if (event.getInventory().getType() == InventoryType.ENDER_CHEST || event.getInventory().getType() == InventoryType.SHULKER_BOX) {
             List<HumanEntity> viewers = event.getInventory().getViewers();
             if (!viewers.isEmpty()) {
                 Player player = (Player) viewers.get(0);

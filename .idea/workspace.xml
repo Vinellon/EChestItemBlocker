@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe88103b-1434-47fa-81d4-4583fb634c77" name="Changes" comment="" />
+    <list default="true" id="fe88103b-1434-47fa-81d4-4583fb634c77" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/InventoryClickEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/InventoryClickEventHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/InventoryCloseEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/InventoryCloseEventHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/InventoryOpenEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/InventoryOpenEventHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/PlayerDeathEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/PlayerDeathEventHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/PlayerSwapHandItemsEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/PlayerSwapHandItemsEventHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/utils/BannedItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/utils/BannedItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/IBShulker-1.0-shaded.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/IBShulker-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/IBShulker-1.1-shaded.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/IBShulker-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/InventoryClickEventHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/InventoryClickEventHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/InventoryCloseEventHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/InventoryCloseEventHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/InventoryOpenEventHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/InventoryOpenEventHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/PlayerDeathEventHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/PlayerDeathEventHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/utils/BannedItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/utils/BannedItems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-IBShulker-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-IBShulker-1.1.jar" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,25 +50,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
   <component name="ProjectId" id="2awq23hNCX0RNum6gDNMWGdKcwy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.IBShulker package.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/roman/OneDrive/Рабочий стол/Intelij Plugin/IBShulker",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.17011495" />
+  </component>
   <component name="RunManager">
     <configuration name="IBShulker package" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
@@ -46,7 +70,6 @@
         <option name="myRunnerSettings" />
         <option name="myRunnerParameters">
           <MavenRunnerParameters>
-            <option name="cmdOptions" />
             <option name="profiles">
               <set />
             </option>
@@ -55,13 +78,9 @@
                 <option value="package" />
               </list>
             </option>
-            <option name="multimoduleDir" />
             <option name="pomFileName" />
             <option name="profilesMap">
               <map />
-            </option>
-            <option name="projectsCmdOptionValues">
-              <list />
             </option>
             <option name="resolveToWorkspace" value="false" />
             <option name="workingDirPath" value="C:\Users\roman\OneDrive\Рабочий стол\Intelij Plugin\IBShulker" />
@@ -91,5 +110,16 @@
       <updated>1705239781015</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
