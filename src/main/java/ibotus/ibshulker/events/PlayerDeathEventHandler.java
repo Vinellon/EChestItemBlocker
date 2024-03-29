@@ -3,7 +3,6 @@ package ibotus.ibshulker.events;
 import ibotus.ibshulker.utils.BannedItems;
 import org.bukkit.Material;
 import org.bukkit.block.Hopper;
-import org.bukkit.block.ShulkerBox;
 import org.bukkit.entity.Player;
 import org.bukkit.entity.minecart.HopperMinecart;
 import org.bukkit.event.EventHandler;
@@ -58,7 +57,7 @@ public class PlayerDeathEventHandler implements Listener {
     public void onInventoryMoveItemEvent (InventoryMoveItemEvent event)
     {
         InventoryHolder holder = event.getInitiator().getHolder();
-        if(holder instanceof ShulkerBox)
+        if(holder instanceof HopperMinecart ||holder instanceof Hopper)
         {
             ItemStack item = event.getItem();
             Material itemType = item.getType();

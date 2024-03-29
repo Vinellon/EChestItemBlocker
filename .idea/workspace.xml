@@ -4,36 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe88103b-1434-47fa-81d4-4583fb634c77" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fe88103b-1434-47fa-81d4-4583fb634c77" name="Changes" comment="Forked plugin to block Dragon Egg transfer.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/InventoryClickEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/InventoryClickEventHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/InventoryCloseEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/InventoryCloseEventHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/InventoryOpenEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/InventoryOpenEventHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/PlayerDeathEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/PlayerDeathEventHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/PlayerSwapHandItemsEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/events/PlayerSwapHandItemsEventHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/utils/BannedItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ibotus/ibshulker/utils/BannedItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/IBShulker-1.0-shaded.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/IBShulker-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/IBShulker-1.1-shaded.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/IBShulker-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/InventoryClickEventHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/InventoryClickEventHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/InventoryCloseEventHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/InventoryCloseEventHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/InventoryOpenEventHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/InventoryOpenEventHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/PlayerDeathEventHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/events/PlayerDeathEventHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/utils/BannedItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ibotus/ibshulker/utils/BannedItems.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-IBShulker-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-IBShulker-1.1.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +82,14 @@
       <option name="presentableId" value="Default" />
       <updated>1705239781015</updated>
     </task>
+    <task id="LOCAL-00001" summary="Forked plugin to block Dragon Egg transfer.">
+      <created>1711674641372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711674641372</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Forked plugin to block Dragon Egg transfer." />
+    <option name="LAST_COMMIT_MESSAGE" value="Forked plugin to block Dragon Egg transfer." />
   </component>
 </project>
