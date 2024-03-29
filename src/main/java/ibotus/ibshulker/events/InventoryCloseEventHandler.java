@@ -23,7 +23,7 @@ public class InventoryCloseEventHandler implements Listener {
             List<HumanEntity> viewers = event.getInventory().getViewers();
             if (!viewers.isEmpty()) {
                 Player player = (Player) viewers.get(0);
-                if (!player.hasPermission("ibshulker.bypass")) {
+                if (!player.hasPermission("eciblocker.bypass")) {
                     ItemStack[] enderChestItems = event.getInventory().getContents();
                     ArrayList<ItemStack> enderChestArray = new ArrayList<>();
 
@@ -35,7 +35,7 @@ public class InventoryCloseEventHandler implements Listener {
                                 toGive.add(item);
 
                                 String pName = event.getInventory().getViewers().get(0).getName();
-                                System.out.print("Illegal ShulkerBox moved from " + pName + "'s EnderChest to their inventory!");
+                                System.out.print("Illegal item moved from " + pName + "'s EnderChest to their inventory!");
                             } else {
                                 enderChestArray.add(item);
                             }

@@ -10,7 +10,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin implements Listener {
     private void msg(String msg) {
-        String prefix = ChatUtils.color("&aIBShulker &7| ");
+        String prefix = ChatUtils.color("&aECIBlocker &7| ");
         Bukkit.getConsoleSender().sendMessage(ChatUtils.color(prefix + msg));
     }
 
@@ -24,8 +24,8 @@ public class Main extends JavaPlugin implements Listener {
         getServer().getPluginManager().registerEvents(new InventoryClickEventHandler(), this);
         getServer().getPluginManager().registerEvents(new PlayerDeathEventHandler(), this);
         getServer().getPluginManager().registerEvents(new InventoryCloseEventHandler(), this);
+        getServer().getPluginManager().registerEvents(new InventoryMoveItemHandler(), this);
         getServer().getPluginManager().registerEvents(new InventoryOpenEventHandler(), this);
-        getServer().getPluginManager().registerEvents(new PlayerSwapHandItemsEventHandler(), this);
     }
 
     public void onDisable() {

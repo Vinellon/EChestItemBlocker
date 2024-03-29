@@ -15,7 +15,7 @@ public class InventoryClickEventHandler implements Listener {
     @EventHandler
     public void onInventoryClickEvent(org.bukkit.event.inventory.InventoryClickEvent event) {
         Player player = (Player) event.getWhoClicked();
-        if (!player.hasPermission("ibshulker.bypass")) {
+        if (!player.hasPermission("eciblocker.bypass")) {
             if (event.getInventory().getType().equals(InventoryType.ENDER_CHEST) || event.getInventory().getType().equals(InventoryType.SHULKER_BOX)) {
                 if (event.getCurrentItem() != null && BannedItems.bannedItems.contains(event.getCurrentItem().getType())) {
                     if (event.getAction().equals(InventoryAction.MOVE_TO_OTHER_INVENTORY)) {

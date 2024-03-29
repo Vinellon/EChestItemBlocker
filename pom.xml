@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ibotus</groupId>
-  <artifactId>IBShulker</artifactId>
-  <version>1.1+</version>
+  <artifactId>ECIBlocker</artifactId>
+  <version>1.2</version>
   <packaging>jar</packaging>
 
-  <name>EChestItemBlocker</name>
+  <name>ECIBlocker</name>
 
   <properties>
     <java.version>1.8</java.version>
@@ -66,6 +66,12 @@
           <artifactId>spigot-api</artifactId>
           <version>1.20.2-R0.1-SNAPSHOT</version>
           <scope>provided</scope>
+      </dependency>
+      <dependency>
+          <groupId>org.jetbrains</groupId>
+          <artifactId>annotations</artifactId>
+          <version>RELEASE</version>
+          <scope>compile</scope>
       </dependency>
   </dependencies>
 </project>

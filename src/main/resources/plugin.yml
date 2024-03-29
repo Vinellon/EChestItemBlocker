@@ -1,8 +1,10 @@
-name: IBShulker
+name: ECIBlocker
 version: '${project.version}'
 main: ibotus.ibshulker.Main
 api-version: '1.20'
 authors: [IBoTuS,Vinely]
 permissions:
+  ibsdhulker.reload:
+    description: Allows you reload plugin
   ibshulker.bypass:
     description: Allows you to use the Ender Chest and place items inside

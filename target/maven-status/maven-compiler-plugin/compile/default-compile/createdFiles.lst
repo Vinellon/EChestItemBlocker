@@ -1,9 +1,0 @@
-ibotus\ibshulker\events\InventoryOpenEventHandler.class
-ibotus\ibshulker\utils\BannedItems.class
-ibotus\ibshulker\events\InventoryClickEventHandler.class
-ibotus\ibshulker\events\PlayerDeathEventHandler.class
-ibotus\ibshulker\events\PlayerSwapHandItemsEventHandler.class
-ibotus\ibshulker\events\InventoryCloseEventHandler.class
-ibotus\ibshulker\Main.class
-ibotus\ibshulker\configurations\Config.class
-ibotus\ibshulker\utils\ChatUtils.class
