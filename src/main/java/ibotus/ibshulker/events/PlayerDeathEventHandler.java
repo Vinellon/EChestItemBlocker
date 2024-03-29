@@ -56,7 +56,7 @@ public class PlayerDeathEventHandler implements Listener {
     @EventHandler(ignoreCancelled = true)
     public void onInventoryMoveItemEvent (InventoryMoveItemEvent event)
     {
-        InventoryHolder holder = event.getInitiator().getHolder();
+        InventoryHolder holder = event.getSource().getHolder();
         if(holder instanceof HopperMinecart ||holder instanceof Hopper)
         {
             ItemStack item = event.getItem();
